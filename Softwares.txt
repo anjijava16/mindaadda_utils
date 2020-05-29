@@ -1,0 +1,5 @@
+# Maria DB 
+https://downloads.mariadb.org/
+
+# HeidiSQL DB
+https://www.heidisql.com/download.php
